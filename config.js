@@ -1,11 +1,11 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://eniola.dev',
   title: 'Blog by John Doe',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
-  disqusShortname: '',
+  disqusShortname: 'eniola-dev',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
   menu: [
@@ -23,14 +23,14 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'EniolaOluwa Fakeye',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'A software engineer with interest in frontend engineering technologies',
     contacts: {
-      email: '#',
+      email: 'enirate@gmail.com',
       telegram: '#',
-      twitter: '#',
-      github: '#',
+      twitter: '@eniolalucas',
+      github: 'enirate',
       rss: '#',
       vkontakte: '#'
     }
